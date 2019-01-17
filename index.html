@@ -3,8 +3,10 @@
 <head>
 	<title>Hacakthon</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" href="image/turington.png">
 	<link rel="stylesheet" type="text/css" href="css/header.css">
 	<link rel="stylesheet" type="text/css" href="css/contacts.css"> 
+	<link rel="stylesheet" type="text/css" href="css/navBar.css">
 	<script type="text/javascript" src="data.js"></script>
 	<!-- Add social media icon library -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -54,7 +56,40 @@
 
 <!-- *********************************  NAV BAR  ************************************* -->
 
+	<div id="navButton" class="navButton" onclick="toggleNav(this)">
+  			<div class="bar1"></div>
+  			<div class="bar2"></div>
+  			<div class="bar3"></div>
+	</div>
 
+
+	<div id="navBar" class="navBar hideNavBar" onclick="toggleNav(this)">
+		<center>
+		<a href="#intro">Home</a>
+		<a href="#about">About</a>
+		<a href="#events">Events</a>
+		<a href="speakers.html">Speakers</a>
+		<a href="team.html">Team</a>
+		<a href="glimpses.html">Glimpses</a>
+		<a href="#sponsors">Sponsors</a>
+		<a href="contact.html">Contacts</a>			
+		</center>
+	</div>
+
+	<script>
+		function toggleNav(y) 
+		{
+			var x = document.getElementById("navButton");
+			x.classList.toggle("change");
+			var navBar = document.getElementById("navBar");
+			if(x.classList.contains("change"))
+				navBar.className="navBar";
+			else
+				navBar.className="navBar hideNavBar";
+		}
+	</script>
+
+<!-- **************** About********************-->
 
 
 <a href="contact.html"> Contact form</a>
