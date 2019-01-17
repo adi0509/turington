@@ -106,8 +106,21 @@ input[type=text]:focus, textarea:focus
 	  box-shadow: 0 0 5px rgba(81, 203, 238, 1);
 	  border: 1px solid rgba(81, 203, 238, 1);
 }
- 
-@media screen and (max-width: 750px){
+
+@media (min-width: 300px) and (max-width: 600px){
+	.input-fields {
+        padding: 0;
+    }
+    .wrapper{
+    	position: relative;
+
+	}
+	body {
+		background: url('../image/pic1 c2.jpg') no-repeat top center;
+	}
+}
+
+@media screen and (max-width: 300px){
     .input-fields {
         padding: 0;
     }

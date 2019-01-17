@@ -2,8 +2,10 @@
 <html>
 <head>
 	<title>Hacakthon</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="css/header.css">
 	<link rel="stylesheet" type="text/css" href="css/contacts.css"> 
+	<script type="text/javascript" src="data.js"></script>
 	<!-- Add social media icon library -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
@@ -12,15 +14,50 @@
 </head>
 <body>
 
-<div class="header">
-	<h1>RcHacK</h1>
-	<BUTTON><a href="register.html">REGISTER HERE</a></BUTTON>
-	<h3>The Annual hackathon of Ramanujan College Part of the Technical fest <a class="headerlink" href="https://turington.in/">Turington</a> Feburary 05-06, 2019 </h3>
-	<a href="contact.html"> Contact form</a>
+<!-- ********************  INTRO  *********************************************** -->
+<div id="intro">
+	<div class="bgcolor">
 
+		<div id="turingtonHeading">RcHacK</div>
+		<BUTTON class="hvr-float-shadow" style="color: rgb(255, 221, 221)"><a href="register.html">REGISTER HERE</a></BUTTON><br>
+		<h3>The Annual hackathon of Ramanujan College Part of the Technical fest <b><a class="headerlink cool-link" href="https://turington.in/">Turington</a></b></h3><br>
+
+		<div id="timer">
+			<div>
+				<center>
+				<div class="timerBox" id="days"></div>
+				<div class="timerLabel">Days</div>
+				</center>
+			</div>
+			<div>
+				<center>
+				<div class="timerBox" id="hours"></div>
+				<div class="timerLabel">Hours</div>
+				</center>
+			</div>
+			<div>
+				<center>
+				<div class="timerBox" id="minutes"></div>
+				<div class="timerLabel">Minutes</div>
+				</center>
+			</div>
+
+			<script>
+				setTimer();
+			</script>
+		</div>
+		<h1></h1>
+	
+	
+	</div>
 </div>
 
+<!-- *********************************  NAV BAR  ************************************* -->
 
+
+
+
+<a href="contact.html"> Contact form</a>
 
 
 <!--*****************FOOTER***********************  -->

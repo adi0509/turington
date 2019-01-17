@@ -1,0 +1,450 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h4\tTag"
+			],
+			[
+				"Name",
+				"Name"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"cont",
+				"Contact"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"BOX",
+				"box-sizing\tproperty"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"lis",
+				"list-style\tproperty"
+			],
+			[
+				"list-styl",
+				"list-style-type\tproperty"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"fu",
+				"fullName"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"te",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"cl",
+				"clearfix"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"out",
+				"outline-style\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"do",
+				"double\toutline-style"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"borde",
+				"border-bottom\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"tec",
+				"text-decoration\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"merge",
+				"merge"
+			],
+			[
+				"p",
+				"pos"
+			],
+			[
+				"s",
+				"start"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"i",
+				"insert"
+			],
+			[
+				"fi",
+				"fiboRecursion"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"com",
+				"completeTime"
+			],
+			[
+				"bu",
+				"BubbleSort"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"wa",
+				"waitTime"
+			],
+			[
+				"ar",
+				"arrivalTime"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 213.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/adarsh/Adi/turington/README.md",
+		"/home/adarsh/Adi/third year/PHP/HTML/contactform.php",
+		"/home/adarsh/Adi/turington/register.html",
+		"/home/adarsh/Adi/turington/css/contacts.css",
+		"/home/adarsh/Adi/turington/header.css",
+		"/home/adarsh/Adi/third year/git commands.txt",
+		"/home/adarsh/Adi/turington/hacakthon.html",
+		"/opt/lampp/htdocs/index.php",
+		"/opt/lampp/htdocs/phpprac/index.html",
+		"/opt/lampp/htdocs/phpprac/p5.php",
+		"/opt/lampp/htdocs/phpprac/p4.php",
+		"/home/adarsh/Adi/third year/PHP/HTML/Web tamplate.html",
+		"/opt/lampp/htdocs/phpprac/p3.php",
+		"/opt/lampp/htdocs/phpprac/p1.php",
+		"/opt/lampp/htdocs/phpprac/P3.php",
+		"/home/adarsh/Adi/third year/PHP/HTML/javascript/java.html",
+		"/opt/lampp/htdocs/phpPrac.html",
+		"/opt/lampp/htdocs/p1greatest.php",
+		"/opt/lampp/htdocs/phpprac/p2.php",
+		"/opt/lampp/htdocs/p1.php",
+		"/opt/lampp/htdocs/p2.html",
+		"/home/adarsh/Adi/third year/PHP/HTML/javascript/try.js",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/java.html",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/dropdown.html",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/temp6.html",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/temp5.html",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/try8.html",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/try7.html",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/form.html",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/try6.html",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/provider.html",
+		"/home/adarsh/Desktop/What the hack/Park-o-Sphere/javascript.js",
+		"/home/adarsh/Desktop/What the hack/Park-o-Sphere/parkingArea.html",
+		"/home/adarsh/Desktop/What the hack/Park-o-Sphere/register.html",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/booking .html",
+		"/home/adarsh/Adi/Code chef/Fancy.cpp",
+		"/home/adarsh/Adi/Code chef/pizza.cpp",
+		"/home/adarsh/Adi/pizza.cpp",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/temp4.html",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/temp3.html",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/try3.html",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/try4.html",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/try5.html",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/temp1.html",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/temp2.html",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/link.css",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/t1.css",
+		"/home/adarsh/Adi/Robotics/Xbee/XBee Interfacing with Raspberry Pi Model 2/serial_xbee.py",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/try1.html",
+		"/home/adarsh/Adi/third year/PHP/HTML/T1/try2.html",
+		"/home/adarsh/Adi/Code chef/AGECAL.cpp",
+		"/home/adarsh/Adi/Code chef/PPATTERN2.cpp",
+		"/home/adarsh/Adi/Code chef/PPATTERN.cpp",
+		"/home/adarsh/Adi/second year/OS/Fork.cpp",
+		"/home/adarsh/Adi/second year/Data Structure/mergeSort2.cpp",
+		"/home/adarsh/Adi/second year/Data Structure/mergeSort.cpp",
+		"/home/adarsh/Adi/second year/Data Structure/P15.cpp",
+		"/home/adarsh/Adi/second year/Data Structure/LL.cpp",
+		"/home/adarsh/Adi/web/indian-choice.com_hermandino_i774uhrksolqvthjbr.cf_6a8wt822qw8_backup/index.html",
+		"/home/adarsh/Adi/second year/Networking/computer-network/parity.cpp",
+		"/home/adarsh/Adi/second year/Networking/computer-network/CRC2.cpp",
+		"/home/adarsh/Adi/second year/Networking/computer-network/stop & wait.cpp",
+		"/home/adarsh/Adi/second year/Data Structure/Practicals/P17.cpp",
+		"/home/adarsh/Adi/second year/Data Structure/Practicals/P18.cpp",
+		"/home/adarsh/Adi/second year/Networking/computer-network/CRC.cpp",
+		"/home/adarsh/Adi/second year/Networking/computer-network/selective repeat.cpp",
+		"/home/adarsh/Adi/second year/Networking/computer-network/go & back.cpp",
+		"/home/adarsh/Adi/second year/OS/Exec.cpp",
+		"/home/adarsh/Adi/second year/Data Structure/Practicals/P16.cpp",
+		"/home/adarsh/Adi/second year/Data Structure/Practicals/P13.cpp",
+		"/home/adarsh/Adi/second year/Data Structure/Practicals/P12.cpp",
+		"/home/adarsh/Adi/Code chef/Sheldon and trains.cpp",
+		"/home/adarsh/Adi/second year/OS/SJF2.cpp",
+		"/home/adarsh/Adi/second year/OS/SJF.cpp",
+		"/home/adarsh/Desktop/arr.cpp",
+		"/home/adarsh/Adi/Code chef/input.txt",
+		"/home/adarsh/Adi/second year/OS/t1.cpp",
+		"/home/adarsh/Desktop/inp.txt"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "contactPage.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
