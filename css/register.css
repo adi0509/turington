@@ -1,0 +1,48 @@
+body {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+.main-form {
+	display: block;
+	text-align: center;
+	margin-bottom: 40px;
+}
+.inner-form input {
+		
+}
+.inner-form 
+{
+	
+}
+.row {
+	margin: 10px 20%;
+	display: block;
+	
+}
+.row input {
+	line-height: 25px;
+  width: 40%;
+  -webkit-transition: width .35s ease-in-out;
+  transition: width .35s ease-in-out;
+}
+.row input:focus {width: 60%;}
+.star {color: red;}
+.btn {
+	display: block;
+	width: 30%;
+}
+.correctDetails {color:#000a1a;}
+.error {color: #FF0000;}
+@media screen and (max-width: 750px) {
+	.row {
+		margin: 10px 15%;
+		/*margin: 10px 20px;*/
+	}
+	.row input {
+	  width: 85%;
+	}
+	.row input:focus {
+	  width: 94%;
+	}
+}
