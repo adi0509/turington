@@ -10,6 +10,7 @@
 body{
     background: url('../image/pic1.jpg') no-repeat top center;
     background-size: cover;
+    -webkit-background-size:cover;
     width: 100%;
     height: 100vh;
     font-family: 'Open Sans', sans-serif;
@@ -112,6 +113,9 @@ input[type=text]:focus, textarea:focus
     }
     .wrapper{
     	position: relative;
-    	
+
+	}
+	.body {
+
 	}
 }
