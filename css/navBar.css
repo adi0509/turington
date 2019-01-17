@@ -2,7 +2,7 @@
 {
 	background-color: #f2ccff;
 	display: block;
-
+	z-index: 5;
 	border-width: 0px;
 
 	position: absolute;
