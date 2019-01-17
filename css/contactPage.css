@@ -115,7 +115,7 @@ input[type=text]:focus, textarea:focus
     	position: relative;
 
 	}
-	.body {
+	body {
 		background: url('../image/pic1 c.jpg') no-repeat top center;
 	}
 }
