@@ -116,6 +116,6 @@ input[type=text]:focus, textarea:focus
 
 	}
 	.body {
-		-webkit-background-size: 280% auto;
+		background: url('../image/pic1 c.jpg') no-repeat top center;
 	}
 }
